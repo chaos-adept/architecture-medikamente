@@ -4,7 +4,11 @@
 
 тут ссылка на диаграммы (Physical data flow diagrams больше подходит т.к. надо отобразить работу с файлами)
 
+Диаграмма As-IS
 ![data flow diagrams.png](data-flow-diagram.drawio.png "data flow") 
+
+Диаграмма As-IS
+![data_flow_diagrams_to_be.png](data-flow-diagram-to-be.drawio.png "data flow to be")
 
 ## 2. Проведите аудит мер по обеспечению безопасности данных.
 
